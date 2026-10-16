@@ -1,0 +1,17 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+docs/qa/
+design-qa.md
+verification.md
+AGENTS.md
+.openai/
+.npmrc
+scripts/prepare-sites-build.mjs
+tests/sites-worker.test.mjs
+worker/
